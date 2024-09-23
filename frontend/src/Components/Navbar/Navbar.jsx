@@ -9,7 +9,6 @@ function Navbar() {
       <ul className="navbar-menu">
         <li>Home</li>
         <li>Student Reviews</li>
-        <li>Contect us</li>
       </ul>
     </div>
   )
